@@ -1,0 +1,6 @@
+{
+  "name": "game.shironna.my.id",
+  "description": "Standalone anime game engine foundation with modular managers, character system, endpoint bridge, asset management, and developer sandbox preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
